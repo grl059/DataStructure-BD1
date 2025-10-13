@@ -1,0 +1,5 @@
+F.ITA100/Medeelliin tehnologiin undes/3.0
+F.ITA101/Mergejliin udirtgal/1.0
+S.CDM101/Gamshgaas hamgaalah menejment/1.0
+S.CFM100/Programchlaliin undes/3.0
+S.MTM122/Mathematics/3.0
